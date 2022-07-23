@@ -1,0 +1,1 @@
+C:\Users\user\Object\Builds\WSAPlayer\Object\Object.vcxproj;x64
